@@ -1,0 +1,14 @@
+{
+  "name": "@xispk/strings",
+  "version": "0.0.1",
+  "description": "Projeto pessoal para compartilhar meus métodos utilitários relacionados à strings entre meus projetos",
+  "repository": "git@github.com:xispk/strings.git",
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "author": "Iury Ferreira Santana",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "@xispk/strings",
+  "version": "0.0.1",
+  "description": "Projeto pessoal para compartilhar meus métodos utilitários relacionados à strings entre meus projetos",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xispk/strings.git"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "masks",
+    "formatters",
+    "utilities",
+    "strings"
+  ],
+  "author": "Iury Ferreira Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xispk/strings/issues"
+  },
+  "homepage": "https://github.com/xispk/strings#readme"
+}
